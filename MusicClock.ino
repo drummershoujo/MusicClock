@@ -13,10 +13,8 @@
   http://www.arduino.cc/en/Tutorial/AnalogInput
   http://www.arduino.cc/en/Tutorial/Tone
   https://learn.adafruit.com/adafruit-arduino-lesson-10-making-sounds/overview
-
-  <Add github and tutorial info here once they exist>
-  
 */
+
 #include "pitches.h"
 
 // Variables for the clock
